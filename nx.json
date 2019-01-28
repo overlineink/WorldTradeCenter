@@ -1,0 +1,11 @@
+{
+  "npmScope": "An @nrwl 🦄🌊 workspace to show Typescript capabilities for two sides, both frontend as backend using @nestjs 😻 and @angular 🅰",
+  "implicitDependencies": {
+    "angular.json": "*",
+    "package.json": "*",
+    "tsconfig.json": "*",
+    "tslint.json": "*",
+    "nx.json": "*"
+  },
+  "projects": {}
+}
